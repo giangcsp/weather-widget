@@ -1,0 +1,16 @@
+.textbox {
+    font-size: 32px;
+    padding: 2px;
+    width: 64px;
+    text-align: center;
+    margin-right: 8px;
+  }
+
+.img {
+    font-size: large;
+}
+
+.columnItem {
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+}
